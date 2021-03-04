@@ -1,3 +1,6 @@
+[![FOStack
+header](https://github.com/fostack/fostack/blob/master/felixo-dev-header.png)](https://felixo.dev.com)
+
 ### Hi there 👋
 
 <!--
@@ -5,12 +8,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on small ready-to-use web applications
+- 🌱 I’m currently learning aws cloud essentials
+- 👯 I’m looking to collaborate on firebase and other backend projects
+- 🤔 I’m looking for help with app marketing
+- 💬 Ask me about Firebase as a fullstack service
+- 📫 How to reach me: admin@felixo.dev
+- ⚡ Fun fact: I like to golf!
 -->
