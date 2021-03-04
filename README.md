@@ -1,5 +1,5 @@
 [![FOStack
-header](https://github.com/fostack/fostack/blob/master/felixo-dev-header.png)](https://felixo.dev.com)
+header](https://github.com/fostack/fostack/blob/master/felixo-dev-banner.png)](https://felixo.dev.com)
 
 ### Hi there 👋
 
