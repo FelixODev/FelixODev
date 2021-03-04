@@ -8,6 +8,7 @@ header](https://github.com/fostack/fostack/blob/main/felixo-dev-banner.png)](htt
 
 Here are some ideas to get you started:
 
+-->
 - 🔭 I’m currently working on small ready-to-use web applications
 - 🌱 I’m currently learning aws cloud essentials
 - 👯 I’m looking to collaborate on firebase and other backend projects
@@ -15,4 +16,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Firebase as a fullstack service
 - 📫 How to reach me: admin@felixo.dev
 - ⚡ Fun fact: I like to golf!
--->
