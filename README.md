@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on firebase and other backend projects
 - 🤔 I’m looking for help with app marketing
 - 💬 Ask me about Firebase as a fullstack service
-- 📫 How to reach me: admin@felixo.dev
+- 📫 How to reach me: contact@felixo.dev
 - ⚡ Fun fact: I like to golf!
